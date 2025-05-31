@@ -7,7 +7,7 @@
  # MDWorkshop
 # SUSE Linux 
 
-This document describes the SUSE Linux Enterprise Server 11 installation security baseline used within the Global Technology organization at NGA
+This document describes  SUSE Linux Enterprise Server 11 installation security baseline used within the Global Technology organization at NGA
 
 The baseline is applied on each ***SUSE Linux Enterprise Server 11*** Operating system installation and enforced by a __configuration management__ tool called Puppet. To access something, press `enter`.
 ```
